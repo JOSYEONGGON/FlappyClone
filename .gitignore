@@ -1,4 +1,5 @@
 *.meta
+*.md
 obj/
 APK/
 Library/
@@ -7,4 +8,4 @@ Packages/
 ProjectSettings/
 Temp/
 UserSettings/
-.vsconfig
+*.vsconfig
